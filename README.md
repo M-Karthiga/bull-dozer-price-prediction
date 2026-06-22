@@ -62,7 +62,8 @@ Three models trained and compared:
 
 ### 6. Feature Importance
 - Identified strongest predictors of sale price using `feature_importances_`
-- Top features: `YearMade`, `ProductSize`, `Enclosure`, `saleYear`
+- Top features: `YearMade`, `ProductSize`, `saleYear`,`Enclosure`
+<img width="659" height="376" alt="image" src="https://github.com/user-attachments/assets/ced8aa15-1340-486e-840b-9e841c166234" />
 
 ---
 
