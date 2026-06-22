@@ -1,0 +1,31 @@
+# ── Data ──────────────────────────────────────────────────────────────────────
+# Kaggle data files (too large and subject to Kaggle's terms of use)
+data/
+*.csv
+*.zip
+
+# ── Python environment ────────────────────────────────────────────────────────
+env/
+venv/
+.venv/
+__pycache__/
+*.py[cod]
+*.pyo
+
+# ── Jupyter ───────────────────────────────────────────────────────────────────
+.ipynb_checkpoints/
+
+# ── OS files ──────────────────────────────────────────────────────────────────
+.DS_Store
+Thumbs.db
+
+# ── Model artefacts ───────────────────────────────────────────────────────────
+# Uncomment if you save trained models locally
+# *.pkl
+# *.joblib
+# *.cbm
+# *.json
+
+# ── IDE ───────────────────────────────────────────────────────────────────────
+.vscode/
+.idea/
