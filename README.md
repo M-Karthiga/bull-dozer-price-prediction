@@ -114,7 +114,7 @@ All three models are within 0.01 RMSLE of each other, which suggests the **prepr
 ##  Setup & Reproduction
 
 ```bash
-git clone https://github.com/<your-username>/bulldozer-price-prediction.git
+git clone https://github.com/M-Karthiga/bulldozer-price-prediction.git
 cd bulldozer-price-prediction
 
 python -m venv env
